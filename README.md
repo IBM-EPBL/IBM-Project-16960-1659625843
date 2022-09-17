@@ -19,3 +19,7 @@
 # 🧑‍💻Technical Architecture:
  ![download](https://user-images.githubusercontent.com/72591359/190850546-9b1ba338-6a8a-4952-8afc-898e5faddd36.png)
 
+# Links
+<a href="">Empathy map</a>
+<a href="">Literature survey</a>
+<a href="">Assignment</a>
