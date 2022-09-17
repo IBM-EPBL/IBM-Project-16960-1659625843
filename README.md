@@ -20,6 +20,6 @@
  ![download](https://user-images.githubusercontent.com/72591359/190850546-9b1ba338-6a8a-4952-8afc-898e5faddd36.png)
 
 # 🔗Links
-<a href="ghghggh">Empathy map</a> <br>
+<a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/blob/main/Ideation_Phase/Empathy_Map/Empathy_canavas_map.pdf">Empathy map</a> <br>
 <a href="">Literature survey</a> <br>
 <a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/tree/main/Assements">Assignment</a>
