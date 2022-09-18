@@ -21,5 +21,5 @@
 
 # 🔗Links
 <a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/blob/main/Ideation_Phase/Empathy_Map/Empathy_canavas_map.pdf">Empathy map</a> <br>
-<a href="">Literature survey</a> <br>
+<a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/blob/main/Ideation_Phase/Literature_survey/Literature%20survey-1%20(Stock%20retailer).pdf">Literature survey</a> <br>
 <a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/tree/main/Assements">Assignment</a>
