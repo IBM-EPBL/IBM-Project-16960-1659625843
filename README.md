@@ -21,7 +21,7 @@
  
  #🔗lINKS
  
- <a href="">Assignments</a>
+ <a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/tree/main/Assignments">Assignments</a><br>
  <a href="">Ideation Phase</a>
  <a href=""></a>
 
