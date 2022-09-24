@@ -5,6 +5,9 @@
    - TEAM ID : PNT2022TMID39737
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
+
+
+
 # 🧑‍💻TEAM MEMBERS
  - Charan B
  - Gowtham S
@@ -12,7 +15,7 @@
  - Akash Vishwa SG
  
  # ♣️PROJECT DESCRIPTION
- - This dataset contains a lot of historical sales data of a Brazilian top retailer
+ - This dataset contains a lot of historical sales data of a Brazilian top retailer.
 
  - Basic Questions of every retailer : How much inventory should I carry?  Too much inventory means working capital costs, operational costs and a complex operation, lack   of inventory leads to lost sales, unhappy customers and a damaged brand.
 
