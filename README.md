@@ -28,7 +28,8 @@
  
  - <a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/tree/main/Assignments">Assignments</a><br>
  - <a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/tree/main/Project%20Design%20%26%20Planning">Project Design & Planning</a><br>
- <a href=""></a><br>
+ - <a href="">Project Design & Planning</a><br> 
+ - <a href=""></a><br>
 
 
 
