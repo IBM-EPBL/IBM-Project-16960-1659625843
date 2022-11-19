@@ -30,6 +30,7 @@
  - <a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/tree/main/Project%20Design%20%26%20Planning">Project Design & Planning</a><br>
  - <a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/tree/main/prerequiste">Pre Requisite </a><br> 
  - <a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/tree/main/Project%20Development%20Phase">Project Development Phase</a><br>
+  - <a href="https://github.com/IBM-EPBL/IBM-Project-16960-1659625843/tree/main/Final%20Deliverables">Final Deliverables</a><br>
 
 
 
